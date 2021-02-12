@@ -1,0 +1,315 @@
+
+/*Device >= 1800============================*/
+@media (min-width:1800px) {
+    .container{
+        max-width:1740px ;
+    }
+
+    .header-vector{
+        height: 100vh;
+    }
+
+    .consolidate-img{
+        width: 604px;
+    }
+
+    .bg-vector{
+        width: 840px;
+    }
+
+    .manage-img{
+        width: 604px;
+    }
+
+    .bg-vector1{
+        width: 840px;
+    }
+
+    .text-xl-center{
+        text-align: center;
+    }
+
+    .takeout-img{
+        width: 604px;
+    }
+
+    .vector1{
+        top: -22px;
+        left: -274px;
+    }
+
+    .vector1 img{
+        width: 360px;
+    }
+
+
+    .vector2{
+        left: -273px;
+        top: 155px;
+    }
+
+    .vector2 img{
+        width: 360px;
+    }
+
+    .vector3{
+        left: 270px;
+        top: -13px;
+    }
+
+    .vector3 img{
+        width: 420px;
+    }
+
+    .vector4{
+        left: 318px;
+        top: 169px;
+    }
+
+    .vector4 img{
+        width: 360px;
+    }
+
+    .box1{height: 200px;}
+    .box2{height: 187px;}
+    .box4{height: 260px;}
+    .box5{height: 417px;}
+    .box6{height: 350px;}
+}
+
+/*end====================================*/
+
+
+/* Device <=1800px ==================================*/
+
+@media (max-width:1800px) {
+    .devices img{width: 100%;}
+}
+
+/*end====================*/
+
+
+/* Large and extra large Devices=======================*/
+@media (min-width:1922px) {
+    .height-exl-1245{height: 1245px;}
+}
+
+@media (min-width:1020px) and (max-width:1480px) {
+    .pb-55{padding-bottom: 55px;}
+    .created-img{
+        height: 300px;
+    }
+    
+}
+
+
+@media (min-width:990px) and (max-width:1280px) {
+    .bg-vector{width: 720px;}
+    .bg-vector1{
+        width: 605px;
+        top: -45px;
+        left: -116px;
+
+    }
+    .manage-img{
+        height: 340px;
+    }
+
+    .consolidate-img{
+        height: 340px;
+    }
+
+    .takeout-img{
+        height: 340px;
+    }
+
+    .vector1{
+        top: 7px;
+        left: -142px;
+    }
+
+    .vector1 img{
+        width: 230px;
+    }
+
+    .vector2{
+        top: 196px;
+        left: -143px;
+    }
+
+    .vector2 img{
+        width: 230px;
+    }
+
+    
+    .vector3 img{
+        width: 230px;
+    }
+
+    .vector4{
+        left: 280px;
+    }
+
+    .vector4 img{
+        width: 230px;
+    }
+}
+
+
+
+
+@media (min-width:1030px) {
+    .width-286{width: 286px;}
+}
+
+/*End=================================*/
+
+
+/*Medium Devices =========================*/
+@media (min-width: 768px) and (max-width: 991.98px) { 
+    .created-img{
+        height: 340px;
+    }
+ }
+
+@media (min-width:769px) and (max-width:811px) {
+    .width-250{width: 250px;}
+}
+
+@media (min-width:1010px) and (max-width:1024px) {
+    .width-250{width: 250px;}
+}
+
+@media (min-width:768px) {
+    .width-498{width: 498px;}
+   
+    
+}
+
+@media (max-width:768px) {
+    .fw-sm-600{font-weight: 600;}
+}
+
+@media (min-width:665px) and (max-width:737px) {
+    .mobile-vector{
+        width: 583px;
+        height: 569px;
+    }
+
+    .box1{
+        height: 170px;
+    }
+
+    .box3{
+        height: 140px;
+    }
+
+    .box4{
+        height: 230px;
+    }
+
+    .box5{
+        height: 355px;
+    }
+}
+
+/* End ======================================*/
+
+
+
+/* Extra small and Small devices ================================*/
+@media (max-width:576px) {
+    .fs-exsm-32{font-size: 32px;}
+    .fs-exsm-14{font-size: 14px;}
+    .fs-exsm-24{font-size: 24px;}
+
+    .header-vector{
+        display: none;
+    }
+
+    .created-img{
+        height: 256px;
+    }
+
+    .consolidate-img{
+        height: 256px;
+    }
+
+    .manage-img{
+        height: 256px;
+    }
+
+}
+
+@media (max-width:566px) {
+    .screen{
+        width: 100%;
+    }
+}
+
+@media (min-width:568px) and (max-width:989px) {
+    .border-bot{
+        width: 545px;
+    }
+    .text-sm-left{text-align: left;}
+    .pl-15{padding-left: 15px;}
+}
+
+@media (min-width:414px) and (max-width:562px) {
+    .text-sm-left{text-align: left;}
+    .pl-15{padding-left: 15px;}
+    
+}
+
+
+@media (min-width:410px) and (max-width:576px) {
+    .mobile-vector{
+        left: -15px;
+    }
+
+    
+} 
+
+@media (min-width:404px) and (max-width:558px) {
+    .screen{
+        width: 392px;
+    }
+
+    
+} 
+
+@media (min-width:325px) and (max-width:576px) {
+    .box1{
+        height:210px ;
+    }
+
+    .box4{
+        height:269px ;
+    }
+
+    .box5{
+        height:469px ;
+    }
+
+    .box3{
+        height: 149px;
+    }
+}
+
+@media (max-width:389px) {
+    .start-btn{width: 130px;}
+    .learn-btn{width: 130px;}
+}
+
+@media (max-width:373px) {
+    .mobile-vector{
+        width: 342px;
+    }
+
+    .border-bot{
+        width: 296px;
+    }
+}
+
+
+/*End========================================================*/
